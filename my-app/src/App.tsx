@@ -1,17 +1,10 @@
-<<<<<<< HEAD
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Button } from "react-bootstrap";
-
-=======
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import { Button, Card } from "react-bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
->>>>>>> feature/b
+
+
 
 function App() {
   return (
